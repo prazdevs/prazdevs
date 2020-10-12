@@ -1,6 +1,7 @@
 ## 👋 Hey, I'm Sacha!
 I'm a web developer based in France.   
 I mostly do Javascript stuff and love working with React.   
+I value user experience and accessibility a lot.
 Besides coding, I like drawing and crafting things.    
 I also have have an unhealthy addiction to mechanical keyboards. :)   
 
