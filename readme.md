@@ -1,8 +1,8 @@
 ## 👋 Hey, I'm Sacha!
 I'm a web developer based in France.   
-I mostly do Javascript stuff and love working with React.   
+I mostly do Javascript stuff and love working with React & Vue.   
 I value user experience and accessibility a lot.
-Besides coding, I like drawing and crafting things.    
+Besides coding, I like playing video games, crafting things and cooking.    
 I also have have an unhealthy addiction to mechanical keyboards. :)   
 
 >*profile picture made by [Quiet Hush](twitter/q_hush)*
