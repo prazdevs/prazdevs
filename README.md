@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Sacha!
 
-I'm 28 y-o, I go by they/them and I'm a web developer based in France.   
+I'm 29 y-o, I use they/any pronouns and I'm a web developer based in France.   
 I mostly do Typescript & Javascript stuff and love working with Vue.   
 I value user experience and accessibility a lot.   
 Besides coding, I like [playing bass](https://www.instagram.com/listen.to.under/) and [cosplaying](https://www.instagram.com/praz_cos/).   
