@@ -13,6 +13,6 @@ _**If you want to support my work, feel free to [buy me a coffee](https://ko-fi.
 
 <samp>
    <i>
-      profile picture made by <a href="https://bsky.app/profile/reelrollsweat.bsky.social">reel</a>
+      profile picture made by <a href="https://acidicchoco.carrd.co">acidicchoco</a>
    </i>
 </samp>
