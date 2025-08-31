@@ -1,13 +1,14 @@
-## 👋 Hey, I'm Sacha!
+# I'm leaving GitHub
 
-I'm 29 y-o, I use they/them pronouns and I'm a web developer based in France.   
-I mostly do Typescript & Javascript stuff, and play around with Rust and Nix.   
-I value user experience and accessibility a lot.   
-Besides coding, I like [playing bass](https://www.instagram.com/listen.to.under/) and [cosplaying](https://www.instagram.com/praz_cos/).   
-I love listening to music and drawing in my free time.   
-I also am very interested in mechanical keyboards and coffee. :)  
+After [over 13 years](https://api.github.com/users/prazdevs), it's time to leave this place.
 
-_**If you want to support my work, feel free to [buy me a coffee](https://ko-fi.com/prazdevs)**_.
+I opensource my code and projects for humans so we can learn/share/improve together as a community, and will continue to do so as I can.
+
+However I do not want it to feed LLMs, contributing to corporate-backed ecocide and property thievery, which is where this place is heading to.
+
+I am an artist and value empathy, critical thinking and creativity as well as environment (and energy) preservation. What we need is more humans building things together for everyone rather than machines building for a privileged few.
+
+You can find my code over at my [Codeberg](https://codeberg.org/praz).
 
 ---
 
